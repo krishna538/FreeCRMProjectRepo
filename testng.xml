@@ -1,0 +1,8 @@
+<suite name="example suite 1" verbose="1" >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.crm.qa.tests.LoginPageTest"/>
+      <class name="com.crm.qa.tests.HomePageTest"/>
+    </classes>
+ </test>
+</suite>
